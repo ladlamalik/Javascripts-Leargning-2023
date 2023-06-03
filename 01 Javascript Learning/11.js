@@ -3,7 +3,7 @@
 
 // let firstName;
 // console.log(typeof firstName);
-// firstName = "Harshit";
+// firstName = "Nadeem";
 // console.log(typeof firstName, firstName);
 
 // let myVariable = null;
@@ -14,7 +14,7 @@
 // bug , error 
 
 // BigInt
-// let myNumber = BigInt(12);
+let myNumber = BigInt(12);
 // let sameMyNumber = 123n;
 // // console.log(myNumber);
 // // console.log(Number.MAX_SAFE_INTEGER);

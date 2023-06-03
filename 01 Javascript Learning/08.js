@@ -25,6 +25,6 @@
 // let myStr = +"33";
 // console.log(typeof myStr);
 
-// let age = "18";
-// age = Number(age);
-// console.log(typeof age);
+let age = +"18";
+age = (age);
+console.log(typeof age);
