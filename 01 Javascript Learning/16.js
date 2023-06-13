@@ -21,3 +21,5 @@ if (firstName[0] === 'N' || age > 18) {
 } else {
   console.log('Inside else');
 }
+
+//nested
