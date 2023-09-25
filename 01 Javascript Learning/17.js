@@ -12,5 +12,9 @@ let userGuess = +prompt("Guess a number")
 if(userGuess === winningNumber) {
 console.log("Your guess is right!!!") 
 }else{
-    console.log("Your guess is wrong!!")
+    if(userGuess > winningNumber){
+        console.log("too low!!!")
+    }else{
+        console.log("too high!!!")
+    }
 }
